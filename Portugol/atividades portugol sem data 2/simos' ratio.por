@@ -1,0 +1,23 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real ratio, Aura, pi = 3.14
+		escreva("digite valor do raio: ")
+		leia(ratio)
+		Aura = pi*(ratio*ratio)
+		escreva("a area da circunferrência é igual: ",Aura)
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 67; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
